@@ -1,5 +1,4 @@
 @startuml
-!include style.puml
 start
 :User inputs "quiz";
 :Start a new quiz with flashcard index = 0;
